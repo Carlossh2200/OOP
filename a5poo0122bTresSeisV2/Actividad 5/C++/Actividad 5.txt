@@ -1,0 +1,8 @@
+Registro Numero 1
+Nombre de la materia: Programacion
+Acronimo:             POO
+Profesor:             Alberto
+Dias:                 LM
+Hora Inicio:          7
+Hora Fin:             9
+
